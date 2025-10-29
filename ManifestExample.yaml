@@ -1,0 +1,16 @@
+
+AgentName: OutreachBot
+CreatedBy: AgentBuilder
+Tools:
+  - Power Automate
+  - CRM
+Formulas:
+  - PCS
+  - TAPGTP
+Outputs:
+  - PartnerList.xlsx
+  - Summary.md
+SafetyProtocols:
+  - AI-Reliance
+  - ComplianceGate
+Status: Active
